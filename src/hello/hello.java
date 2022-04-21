@@ -7,6 +7,8 @@ public class hello {
 
         System.out.println("Hello world");
 
+        // çok uzatıyorsun şu dersi akbar
+
 
     }
 }
